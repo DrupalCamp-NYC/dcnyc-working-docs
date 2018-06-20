@@ -48,7 +48,7 @@
 * Approx $100 to $300 to file the non profit. Shawn said he would get us a clearer proposal of exact line-item costs
 * Shawn is volunteering to setup and lead the non-profit for the first year. It is do-able if there are 2 other volunteers willing to work with Shawn. Joe notes here that this isn’t just about 2 volunteers, we should begin discussing the structure of the board and the working principles of the group. This would happen AFTER the proposal is looked at/ratified by the broader community of Drupal organizers in NYC
 * Ho-Ling: As a 501c3 we would have a logo, which we can use in events etc.
-* Ho-Ling: How long would this take? Shawn: Once the initial documents are drafted, setting up the corporation is days; IRS typically takes 2 or 3 weeks for tax-empty status.
+* Ho-Ling: How long would this take? Shawn: Once the initial documents are drafted, setting up the corporation is days; IRS typically takes 2 or 3 weeks for tax-exempt status.
 * Ho-Ling: We need a policy / procedure to remove someone from office. Shawn: New York state laws already address this if we have a 501c3. We would also address in proposed bylaws.
 * Joe and Jacob spoke about the Open Collective option, here is a report Joe wrote on his research and based on his conversation with Pia Mancini, OC’s Founder: https://docs.google.com/document/d/12vRUkM1zSWrNnqQx4USzayGl4Ny0DicUCI0E74k454k/edit
 * Jacob: Open Collective is trying to solve the fundamental problems in open source communities
